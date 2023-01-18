@@ -9,7 +9,7 @@ body {
 
 header {
   background-color: $color-secondary;
-  border-bottom: 3px solid #fffb00;
+  border-bottom: 3px solid $color-tertiary;
   display: flex;
   justify-content: center;
   font-family: $font;
